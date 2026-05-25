@@ -44,15 +44,6 @@ SHA-256 integrity validation
 Unauthorized file detection
 Alert and event logging
 
-▶️ Installation & Setup
-1. Clone the Repository
-git clone https://github.com/your-username/SECUREXFER.git
-cd SECUREXFER
-2. Install Dependencies
-pip install -r requirements.txt
-3. Run the Application
-streamlit run app.py
-
 📊 Dashboard Modules
 Dashboard
 Send File
